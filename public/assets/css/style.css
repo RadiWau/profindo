@@ -1,0 +1,29 @@
+/*================================================================================
+	Item Name: Modern Admin - Clean Bootstrap 4 Dashboard HTML Template
+	Author: PIXINVENT
+	Author URL: http://www.themeforest.net/user/pixinvent
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+
+.content-header .content-header-dark .content-header-left {
+    background-color: #a68221;
+    background-image: linear-gradient(to right, #b18b1c, #cbab4e);
+}
+
+.breadcrumbs-top .breadcrumb-wrapper .breadcrumb .breadcrumb-item.active{font-weight:bold;color:#FFFFFF;}.breadcrumb .breadcrumb-item a{font-weight:bold;color:#FFFFFF;}.breadcrumb .breadcrumb-item a:hover,.breadcrumb .breadcrumb-item+.breadcrumb-item::before{color:#FFFFFF;font-weight: bold;}
+.material-vertical-layout .app-content .content-header .content-header-dark .breadcrumb-item a, .material-horizontal-layout .app-content .content-header .content-header-dark .breadcrumb-item a {
+    color: white;
+    font-weight:bold;
+}
+.material-vertical-layout .app-content .content-header .content-header-dark .breadcrumb-item.active, .material-horizontal-layout .app-content .content-header .content-header-dark .breadcrumb-item.active {
+    color: white;
+    font-weight: bold;
+}
+
+.navbar {
+    padding: 0px;
+}
